@@ -1,0 +1,12 @@
+# Flask
+# geopy
+# gspread
+# oauth2client
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly-express
+sklearn
+fsspec
