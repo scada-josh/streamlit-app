@@ -4,3 +4,4 @@
 /Deployment
 docker-compose.yml
 dockerfile-deploy-gcp.dockerfile
+.DS_Store
